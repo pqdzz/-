@@ -8,7 +8,7 @@ import time
 from datetime import datetime, timedelta
 
 # --- الإعدادات ---
-API_TOKEN = '8260522692:AAFt81cAPzjbNOHyqzgWJRzFTNc_FU84X0U'
+API_TOKEN = ''8260522692:AAFt81cAPzjbNOHyqzgWJRzFTNc_FU84X0U'
 ADMIN_ID = 96799666 
 bot = telebot.TeleBot(API_TOKEN)
 
